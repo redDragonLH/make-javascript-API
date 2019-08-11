@@ -1,0 +1,19 @@
+{
+  "name": "makejsapi",
+  "version": "0.0.1",
+  "description": "make javascript api\\",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redDragonLH/make-javascript-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redDragonLH/make-javascript-API/issues"
+  },
+  "homepage": "https://github.com/redDragonLH/make-javascript-API#readme"
+}
